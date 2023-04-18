@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TelegramCloneApp</string>
+    <string name="api_key">y8h36fs99ev8</string>
+    <string name="jwt_token">eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoic2FtcnVkZGhpIn0.tWnC4OIdWa6sDs9DX6zdzaociNzTUkvQp3E50gla288</string>
+
+</resources>
